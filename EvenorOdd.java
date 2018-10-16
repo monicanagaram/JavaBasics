@@ -11,7 +11,7 @@ public class EvenorOdd {
 		}
 		//System.out.println(EvenorOdd.evenorOdd(10));
 		//System.out.println(EvenorOdd.evenorOdd(11));
-		
+		System.out.println("changed");
 	}
 	public static String evenorOdd(int num) {
 		if(num%2==0){
