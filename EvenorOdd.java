@@ -6,7 +6,9 @@ public class EvenorOdd {
 		// TODO Auto-generated method stub
 		
 		int a=10, b=11;
-		if(a%2==0) { System.out.println("even")`;
+		if(a%2==0) { 
+			System.out.println("even");
+		}
 		//System.out.println(EvenorOdd.evenorOdd(10));
 		//System.out.println(EvenorOdd.evenorOdd(11));
 		
